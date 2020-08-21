@@ -1,0 +1,20 @@
+#id2 {
+    border: solid black 1px;
+    vertical-align: auto;
+    text-align: right;
+    text-align: left;
+}
+
+p {
+    display: inline;
+    background-color: bisque;
+    
+}
+
+.ptag {
+    display: inline;
+}
+
+article > p {
+    display: block;
+}
